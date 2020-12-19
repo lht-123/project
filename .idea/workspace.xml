@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ced90101-0f7c-478e-882a-ea623f3686be" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\ideawork\m2\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../web/software/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\ideawork\m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1lfwErtSklmU7hETkkMY0kCJhjK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ideawork\20201215_dbf_hive\src\main\java\com\dbf\hive" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Dbf2txt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dbf.hive.Dbf2txt" />
+      <module name="20201215_dbf_hive" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Dbf2txt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ced90101-0f7c-478e-882a-ea623f3686be" name="Default Changelist" comment="" />
+      <created>1608001344776</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608001344776</updated>
+      <workItem from="1608001347345" duration="110000" />
+      <workItem from="1608001502402" duration="2429000" />
+      <workItem from="1608173195784" duration="12851000" />
+      <workItem from="1608256085001" duration="23119000" />
+      <workItem from="1608358386787" duration="5837000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="142" key="#com.intellij.ide.util.MemberChooser" timestamp="1608256992896">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="142" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1608256992896" />
+    <state x="455" y="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1608272440579">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="455" y="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1608272440579" />
+    <state x="661" y="118" key="FileChooserDialogImpl" timestamp="1608368793842">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="661" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1608368793842" />
+    <state width="1323" height="172" key="GridCell.Tab.0.bottom" timestamp="1608369324891">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="172" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1608369324891" />
+    <state width="1323" height="172" key="GridCell.Tab.0.center" timestamp="1608369324891">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="172" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1608369324891" />
+    <state width="1323" height="172" key="GridCell.Tab.0.left" timestamp="1608369324891">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="172" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1608369324891" />
+    <state width="1323" height="172" key="GridCell.Tab.0.right" timestamp="1608369324891">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="172" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1608369324891" />
+    <state width="1323" height="156" key="GridCell.Tab.1.bottom" timestamp="1608200229701">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="156" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1608200229701" />
+    <state width="1323" height="156" key="GridCell.Tab.1.center" timestamp="1608200229701">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="156" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1608200229701" />
+    <state width="1323" height="156" key="GridCell.Tab.1.left" timestamp="1608200229701">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="156" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1608200229701" />
+    <state width="1323" height="156" key="GridCell.Tab.1.right" timestamp="1608200229701">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="156" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1608200229701" />
+    <state x="213" y="21" key="Maven.ArtifactSearchDialog" timestamp="1608257051006">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="21" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1608257051006" />
+    <state x="204" y="18" key="SettingsEditor" timestamp="1608368604120">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="204" y="18" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1608368604120" />
+    <state x="550" y="185" key="Vcs.Push.Dialog.v2" timestamp="1608369898969">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="550" y="185" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1608369898968" />
+    <state x="451" y="100" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1608369347513">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="451" y="100" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1366.728@0.0.1366.728" timestamp="1608369347513" />
+    <state x="1015" y="329" key="git4idea.rebase.GitRebaseDialog" timestamp="1608369915649">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="1015" y="329" key="git4idea.rebase.GitRebaseDialog/0.0.1366.728@0.0.1366.728" timestamp="1608369915649" />
+    <state x="955" y="350" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1608369298954">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="955" y="350" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1366.728@0.0.1366.728" timestamp="1608369298954" />
+    <state x="57" y="28" key="new project wizard" timestamp="1608001450346">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="57" y="28" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1608001450346" />
+  </component>
+</project>
